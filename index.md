@@ -5,11 +5,9 @@
 ## Mes coordonnées
 
 ```
-4 rue Saint-Hilaire 
+Margot EXANDIER
 76 000 ROUEN
 exandiermargot@gmail.com
-06 82 99 16 48
-Margot EXANDIER
 Créatrice de @themaethique
 (page dédiée aux arts visuels)
 ```
