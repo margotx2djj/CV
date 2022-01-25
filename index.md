@@ -1,4 +1,5 @@
 # Margot EXANDIER
+## Curriculum vitae
 
 ![This is a alt text.](rond.png)
 
@@ -11,10 +12,9 @@ exandiermargot@gmail.com
 Créatrice de @themaethique
 (page dédiée aux arts visuels)
 ```
-## Curriculum vitae
 
 ## Mon profil
-###### Créative, dynamique et récative, je suis à la recherche d'un poste de chargée de communication !
+###### Créative, dynamique et réactive, je suis à la recherche d'un poste de chargée de communication !
 
 ## Expériences professionnelles
 
