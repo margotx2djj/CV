@@ -74,14 +74,14 @@ _Kiabi, Amilly (Loiret)_
 de danse Modern’Jazz « Chorés fans »,
 _Amilly (Loiret)_
 
-### Savoir-être
+## Savoir-être
 
 * Créative        
 * Autonome
 * Réactive        
 * Esprit de synthèse
 
-### Savoir-faire
+## Savoir-faire
 
 * Animation des réseaux sociaux
 * Graphisme (médias imprimés)
