@@ -2,7 +2,7 @@
 
 ## Images
 
-![This is a alt text.](IMG_2335 "This is a sample image.")
+![This is a alt text.](IMG_2335.jpg)
 
 ## Mes coordonnées
 
