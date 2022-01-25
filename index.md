@@ -1,6 +1,6 @@
 # Margot EXANDIER
 
-![This is a alt text.](3.jpg)
+![This is a alt text.](rond.png)
 
 ## Mes coordonnées
 
